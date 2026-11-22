@@ -1,0 +1,21 @@
+{
+    "books": [
+        {
+            "id": "B001",
+            "title": "Python Programming",
+            "author": "Mark Lutz",
+            "category": "Programming",
+            "total": 5,
+            "available": 5
+        }
+    ],
+    "members": [
+        {
+            "id": "S001",
+            "name": "Hafsa",
+            "department": "IT",
+            "phone": "0000000000"
+        }
+    ],
+    "transactions": []
+}
